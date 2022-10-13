@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aijazmike
 - 👀 I’m interested in Swift language and iOS Development.
-- 🌱 I’m currently learning Swift and Node JS
-- 💞️ I’m looking to collaborate on Swift like UIKit, SwiftUI, and also working on Node.js
+- 🌱 I’m experienced iOS Developer having 3 years of experience.
+- 💞️ I’m looking to collaborate on Swift like UIKit, SwiftUI
 - 📫 How to reach me just contact me on my email: aijazmike90@gmail.com
 
 <!---
